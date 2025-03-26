@@ -1,2 +1,2 @@
-# PostgreSQLExamples
+# PostgreSQL Examples
 Examples for PostgreSQL
